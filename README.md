@@ -1,6 +1,6 @@
 # Exploring the Lambda Calculus with Python
 
-This is a [Jupyter Notebook](https://jupyter.org/) that walking through some of the concepse of the [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) and implements the `square_sum` function.
+This is a [Jupyter Notebook](https://jupyter.org/) that walks through some of the concepts of the [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) and implements the `square_sum` function.
 
 ## License
 
